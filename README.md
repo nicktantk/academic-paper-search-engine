@@ -9,7 +9,7 @@
 ## 🚀 **Live Frontend Deployment**
 | Frontend | Live Demo |
 |----------|-----------|
-| **[Streamlit App](https://your-streamlit-app.streamlit.app)** | Full search UI + paper cards |
+| **[Streamlit App](https://research-engine.streamlit.app)** | Full search UI + paper cards |
 | **[Backend API](https://academic-paper-search-engine.onrender.com/docs)** | Swagger docs + test endpoints |
 
 ## ✨ **Key Features**
