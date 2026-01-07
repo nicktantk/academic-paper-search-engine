@@ -38,8 +38,8 @@ http://localhost:8000/test/search?query=lstms%20stock%20forecast
 ```
 
 ## API Documentation
-- Swagger UI: http://localhost:8000/docs
-- ReDoc: http://localhost:8000/redoc
+- Swagger UI: http://academic-paper-search-engine.onrender.com/docs
+- ReDoc: http://academic-paper-search-engine.onrender.com/redoc
 
 ## Configuration
 
